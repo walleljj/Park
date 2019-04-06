@@ -648,7 +648,7 @@ public class MainUi extends javax.swing.JFrame {
         jLabel16.setFont(new java.awt.Font("宋体", 1, 24)); // NOI18N
         jLabel16.setText("模拟停车场管理系统");
 
-        jLabel17.setText("制作人：李杰、张博");
+        jLabel17.setText("制作人：李俊杰");
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
         jPanel5.setLayout(jPanel5Layout);
